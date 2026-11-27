@@ -1,5 +1,7 @@
 # Modern Weather (KDE Plasma 6 Widget)
 
+[English](README_en.md) | **Tiếng Việt**
+
 Widget thời tiết hiện đại cho KDE Plasma 6 (không cần API key, sử dụng dữ liệu từ [Open-Meteo](https://open-meteo.com/)).
 
 ## Ảnh chụp màn hình / Screenshots

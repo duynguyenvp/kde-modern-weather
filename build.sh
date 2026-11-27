@@ -29,6 +29,6 @@ zip -r "$OUT_FILE" . \
     -x ".DS_Store" \
     -x "*.sh" \
     -x "*.plasmoid" \
-    -x "README.md"
+    -x "README*.md"
 
 echo "Built: $SCRIPT_DIR/$OUT_FILE"
