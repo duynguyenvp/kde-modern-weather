@@ -1,0 +1,21 @@
+# Built packages (publish via GitHub Releases instead)
+*.plasmoid
+*.zip
+
+# OS / KDE Dolphin metadata
+.directory
+.DS_Store
+Thumbs.db
+
+# Editor / IDE temporary files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# QML / Python cache
+*.qmlc
+*.jsc
+__pycache__/
+*.pyc

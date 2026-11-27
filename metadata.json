@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "duynguyenvp"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Modern weather widget with manual & OS location, configurable units, dynamic taskbar icon, and English/Vietnamese support",
+        "Description[vi]": "Widget thời tiết hiện đại hỗ trợ vị trí thủ công & hệ điều hành, tùy chỉnh đơn vị, icon taskbar động và song ngữ Anh/Việt",
+        "Icon": "weather-clear",
+        "Id": "com.modernweather.widget",
+        "License": "GPL-3.0-or-later",
+        "Name": "Modern Weather",
+        "Name[vi]": "Thời tiết hiện đại",
+        "Version": "1.0.0",
+        "Website": "https://github.com/duynguyenvp/kde-modern-weather"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "ApplicationStatus"
+}
